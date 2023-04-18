@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Roboto&display=swap');
+
+#root {
+	min-height: 100vh;
+	}
+body{
+    background-color: #E1E3E9;
+	font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+	
+}
+.container {
+	margin: 0 auto;
+	padding: 0 10px;
+	max-width: 1168px;
+}
+
+.title{
+	font-family: 'Oswald', sans-serif;
+	font-weight: 500;
+}
+
+
+
+
